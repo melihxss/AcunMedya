@@ -1,3 +1,4 @@
+//birden 50 ye kadar olan sayıları çarpıp sonucu ekrana yazdıran fonksiyon.
 function sum1To50(){
     let toplam:number = 0;
     for(let i:number = 1;i <= 50; i++){
@@ -9,6 +10,8 @@ function sum1To50(){
     console.log(toplam);
 }
 
+
+//7 sayısının 1'den 10'a kadar olan çarpım tablosunu ekrana yazdıran fonksiyon.
 function carpımTablosu(){
     let sayi:number = 7;
 
